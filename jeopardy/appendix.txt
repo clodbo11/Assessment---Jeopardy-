@@ -1,0 +1,2 @@
+numCat: number of categories
+numQue: number of questions
